@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Experimenting with embedded iframed video sizes
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+In this SPA, we demonstrate a couple of ways to display iframed videos that either has a 16:9 dimensions or in an alternate dimension that is portrait-like, suitable for Youtube short, Insta Reel, or TikTok vid.
 
 ## Available Scripts
 
